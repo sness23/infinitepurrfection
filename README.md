@@ -59,7 +59,7 @@ This loop mirrors reinforcement learning principles:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/bioAI0/rhymesai
+   git clone https://github.com/sness23/infinitepurrfection.git
    ```
 
 2. **Install Dependencies**
