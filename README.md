@@ -127,12 +127,12 @@ Through iterative optimization, the project achieves significant enhancements in
 Both images are quite adorable featuring a cute cat wearing a party hat, sitting beside a cupcake with a candle. Here's the detailed evaluation:
 
 1. **Cuteness**: 
-   - **Image 1**: 92/100
-   - **Image 2**: 95/100
+   - **Image 1**: 80/100
+   - **Image 2**: 82/100
 
 2. **Engagement**:
-   - **Image 1**: 90/100
-   - **Image 2**: 92/100
+   - **Image 1**: 81/100
+   - **Image 2**: 84/100
 
 3. **Visual Distortions**: 
    - Both images are free from any noticeable visual distortions.
@@ -141,9 +141,9 @@ In summary, both images score very high in terms of cuteness and engagement, wit
 
 ### Iteration 1
 
-The first image of the cat with a party hat and a cupcake with a lit candle is very cute, scoring around 85 out of 100. The cat's expression is curious and engaging, and the festive hat adds a playful touch. The image quality is high, with vibrant colors and good lighting.
+The first image of the cat with a party hat and a cupcake with a lit candle is very cute, scoring around 89 out of 100. The cat's expression is curious and engaging, and the festive hat adds a playful touch. The image quality is high, with vibrant colors and good lighting.
 
-The second image, also of the cat with a party hat and a cupcake, scores slightly lower at 80 out of 100. While it's similarly engaging, the cat's expression appears less dynamic, and the image seems slightly less sharp. There are no visible visual distortions in either image.
+The second image, also of the cat with a party hat and a cupcake, scores slightly lower at 85 out of 100. While it's similarly engaging, the cat's expression appears less dynamic, and the image seems slightly less sharp. There are no visible visual distortions in either image.
 
 
 ### Iteration 2
@@ -163,15 +163,13 @@ Both images are highly engaging and adorable. Here's a detailed assessment:
      - The cat’s blinking adds a dynamic and amusing touch, enhancing the cuteness.
 
 2. Engagement:
-   - Image 1: 85/100
+   - Image 1: 92/100
      - The composition is straightforward and engaging.
-   - Image 2: 90/100
+   - Image 2: 93/100
      - The action of the cat blinking and waving makes it more engaging.
 
 3. Visual Distortions:
    - Both images are clear with no noticeable distortions.
-
-Average score: 87.5/100
 
 The second image edges out slightly higher due to the added motion and expression of the cat, making it more lively.
 
