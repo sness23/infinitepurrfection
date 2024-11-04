@@ -74,19 +74,24 @@ This loop mirrors reinforcement learning principles:
 
    Ensure you have API keys or access tokens for **Aria** and **Allegro**. Set them as environment variables.
 
-4. **Run the Optimization Loop**
+   ```bash
+   export ARIA_API_KEY="your_aria_api_key"
+   export ALLEGRO_API_KEY="your_allegro_api_key"
 
-   Edit the prompt.txt file to set your prompt.
+4. **Edit the prompt**
 
+   Edit the prompt.txt file to set your prompt to your liking.
+
+5. **Run the Optimization Loop** 
    Execute the main script to start the iterative process:
 
    ```bash
    make
    ```
 
-5. **View Results**
+6. **View Results**
 
-   The generated videos and enhanced images will be saved in the `output/` directory for each iteration.
+   The generated videos and enhanced images will be saved in the current directory for each iteration.
 
 ## Project Structure
 
@@ -94,13 +99,12 @@ This loop mirrors reinforcement learning principles:
 asymptotic-cuteness/
 ├── README.md
 ├── Makefile
-├── catception_generate_video1.py
-├── catception_get_video2.py
+├── catception_generate_video.py
+├── catception_get_video.py
 ├── catception_analyze_video.py
 ├── catception_new_prompt.py
 ├── prompt.txt
 ├── requirements.txt
-├── output/
 └── LICENSE
 ```
 
@@ -166,8 +170,8 @@ This project is licensed under the **GPL v3**. See the [LICENSE](LICENSE) file f
 
 - **lablab.ai**: For hosting the hackathon and providing a platform for innovation.
 - **rhymes.ai**: For developing the **Aria** and **Allegro** models.
-- **[My Wife]**: For the creative "hacker cat" and "cute cat in a kitchen making its favorite meal" prompt idea.
-- **[My Cat]]**: For inspiration and support
+- **[丹丹]**: For the creative "hacker cat" and "cute cat in a kitchen making its favorite meal" prompt idea.
+- **[小白]**: For inspiration and support
 
 ---
 
