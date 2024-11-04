@@ -164,8 +164,8 @@ This project is licensed under the **GPL v3**. See the [LICENSE](LICENSE) file f
 
 - **lablab.ai**: For hosting the hackathon and providing a platform for innovation.
 - **rhymes.ai**: For developing the **Aria** and **Allegro** models.
-- **丹丹**: For the creative "hacker cat" and "cute cat in a kitchen making its favorite meal" prompt idea.
-- **小白**: For inspiration and support
+- **my wife 丹丹**: For the creative "hacker cat" and "cute cat in a kitchen making its favorite meal" prompt idea.
+- **my cat 小白**: For inspiration and support
 
 ---
 
